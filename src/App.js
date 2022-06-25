@@ -9,7 +9,7 @@ function App() {
       {/* <ClassCounter /> */}
       {/* <HookCounter /> */}
       {/* <HookCounter2 /> */}
-      {/*<HookCounter3 /> */}
+      {/*<HookCounter3p /> */}
       <HookCounter4 />
     </div>
   );
